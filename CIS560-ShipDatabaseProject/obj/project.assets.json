@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\Mac\\Home\\Desktop\\CIS560\\CIS560-ShipDatabaseProject\\CIS560-ShipDatabaseProject\\CIS560-ShipDatabaseProject.csproj",
+      "projectUniqueName": "\\\\Mac\\Home\\Desktop\\CIS560\\560 Project\\CIS560-ShipDatabaseProject\\CIS560-ShipDatabaseProject.csproj",
       "projectName": "CIS560-ShipDatabaseProject",
-      "projectPath": "\\\\Mac\\Home\\Desktop\\CIS560\\CIS560-ShipDatabaseProject\\CIS560-ShipDatabaseProject\\CIS560-ShipDatabaseProject.csproj",
+      "projectPath": "\\\\Mac\\Home\\Desktop\\CIS560\\560 Project\\CIS560-ShipDatabaseProject\\CIS560-ShipDatabaseProject.csproj",
       "packagesPath": "C:\\Users\\jesus1006\\.nuget\\packages\\",
-      "outputPath": "\\\\Mac\\Home\\Desktop\\CIS560\\CIS560-ShipDatabaseProject\\CIS560-ShipDatabaseProject\\obj\\",
+      "outputPath": "\\\\Mac\\Home\\Desktop\\CIS560\\560 Project\\CIS560-ShipDatabaseProject\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\jesus1006\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,6 +28,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -69,7 +70,7 @@
             "privateAssets": "none"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.205/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
       }
     }
   }

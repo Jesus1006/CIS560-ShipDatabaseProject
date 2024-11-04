@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CIS560-ShipDatabaseProject")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be96060b9bbc6ef7e4239493f23beeb5c99f0580")]
 [assembly: System.Reflection.AssemblyProductAttribute("CIS560-ShipDatabaseProject")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CIS560-ShipDatabaseProject")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
