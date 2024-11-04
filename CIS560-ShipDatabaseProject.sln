@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34902.65
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CIS560-ShipDatabaseProject", "CIS560-ShipDatabaseProject\CIS560-ShipDatabaseProject.csproj", "{5F058DA9-E24E-4A9C-B51B-8B1343414036}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{5F058DA9-E24E-4A9C-B51B-8B1343414036}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5F058DA9-E24E-4A9C-B51B-8B1343414036}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5F058DA9-E24E-4A9C-B51B-8B1343414036}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5F058DA9-E24E-4A9C-B51B-8B1343414036}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E4FCFFB8-99DC-4C70-840B-AAC9127017F0}
+	EndGlobalSection
+EndGlobal
