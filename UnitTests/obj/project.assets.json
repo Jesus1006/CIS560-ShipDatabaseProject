@@ -5513,9 +5513,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\Mac\\Home\\Desktop\\CIS560\\560 Project\\UnitTests\\UnitTests.csproj",
-      "projectName": "UnitTests",
-      "projectPath": "\\\\Mac\\Home\\Desktop\\CIS560\\560 Project\\UnitTests\\UnitTests.csproj",
+      "projectUniqueName": "\\\\Mac\\Home\\Desktop\\CIS560\\560 Project\\UnitTests\\ShipUnitTests.csproj",
+      "projectName": "ShipUnitTests",
+      "projectPath": "\\\\Mac\\Home\\Desktop\\CIS560\\560 Project\\UnitTests\\ShipUnitTests.csproj",
       "packagesPath": "C:\\Users\\jesus1006\\.nuget\\packages\\",
       "outputPath": "\\\\Mac\\Home\\Desktop\\CIS560\\560 Project\\UnitTests\\obj\\",
       "projectStyle": "PackageReference",

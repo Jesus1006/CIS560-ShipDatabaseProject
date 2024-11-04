@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "\\\\Mac\\Home\\Desktop\\CIS560\\560 Project\\CIS560-ShipDatabaseProject\\CIS560-ShipDatabaseProject.csproj",
-      "projectName": "CIS560-ShipDatabaseProject",
-      "projectPath": "\\\\Mac\\Home\\Desktop\\CIS560\\560 Project\\CIS560-ShipDatabaseProject\\CIS560-ShipDatabaseProject.csproj",
+      "projectUniqueName": "\\\\Mac\\Home\\Desktop\\CIS560\\560 Project\\CIS560-ShipDatabaseProject\\ShipData.csproj",
+      "projectName": "ShipData",
+      "projectPath": "\\\\Mac\\Home\\Desktop\\CIS560\\560 Project\\CIS560-ShipDatabaseProject\\ShipData.csproj",
       "packagesPath": "C:\\Users\\jesus1006\\.nuget\\packages\\",
       "outputPath": "\\\\Mac\\Home\\Desktop\\CIS560\\560 Project\\CIS560-ShipDatabaseProject\\obj\\",
       "projectStyle": "PackageReference",

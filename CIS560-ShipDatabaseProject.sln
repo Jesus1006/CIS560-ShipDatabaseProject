@@ -3,9 +3,9 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34902.65
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CIS560-ShipDatabaseProject", "CIS560-ShipDatabaseProject\CIS560-ShipDatabaseProject.csproj", "{5F058DA9-E24E-4A9C-B51B-8B1343414036}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShipData", "CIS560-ShipDatabaseProject\ShipData.csproj", "{5F058DA9-E24E-4A9C-B51B-8B1343414036}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UnitTests", "UnitTests\UnitTests.csproj", "{28C9B51B-1C20-4ED8-99A6-94BF2169482E}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShipUnitTests", "UnitTests\ShipUnitTests.csproj", "{28C9B51B-1C20-4ED8-99A6-94BF2169482E}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
