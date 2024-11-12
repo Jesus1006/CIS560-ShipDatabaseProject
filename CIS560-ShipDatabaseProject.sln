@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShipData", "CIS560-ShipData
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ShipUnitTests", "UnitTests\ShipUnitTests.csproj", "{28C9B51B-1C20-4ED8-99A6-94BF2169482E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "testing", "testing\testing.csproj", "{B7520AD6-04DE-4AE6-A935-7E8F5662984E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{28C9B51B-1C20-4ED8-99A6-94BF2169482E}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{28C9B51B-1C20-4ED8-99A6-94BF2169482E}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{28C9B51B-1C20-4ED8-99A6-94BF2169482E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B7520AD6-04DE-4AE6-A935-7E8F5662984E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B7520AD6-04DE-4AE6-A935-7E8F5662984E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B7520AD6-04DE-4AE6-A935-7E8F5662984E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B7520AD6-04DE-4AE6-A935-7E8F5662984E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
