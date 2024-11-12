@@ -1,0 +1,17 @@
+\\Mac\Home\Desktop\CIS560\560 Project\CIS560-ShipDatabaseProject\bin\Debug\net8.0-windows\ShipData.exe
+\\Mac\Home\Desktop\CIS560\560 Project\CIS560-ShipDatabaseProject\bin\Debug\net8.0-windows\ShipData.deps.json
+\\Mac\Home\Desktop\CIS560\560 Project\CIS560-ShipDatabaseProject\bin\Debug\net8.0-windows\ShipData.runtimeconfig.json
+\\Mac\Home\Desktop\CIS560\560 Project\CIS560-ShipDatabaseProject\bin\Debug\net8.0-windows\ShipData.dll
+\\Mac\Home\Desktop\CIS560\560 Project\CIS560-ShipDatabaseProject\bin\Debug\net8.0-windows\ShipData.pdb
+\\Mac\Home\Desktop\CIS560\560 Project\CIS560-ShipDatabaseProject\obj\Debug\net8.0-windows\CIS560_ShipDatabaseProject.ShipDatabaseView.resources
+\\Mac\Home\Desktop\CIS560\560 Project\CIS560-ShipDatabaseProject\obj\Debug\net8.0-windows\ShipData.csproj.GenerateResource.cache
+\\Mac\Home\Desktop\CIS560\560 Project\CIS560-ShipDatabaseProject\obj\Debug\net8.0-windows\ShipData.GeneratedMSBuildEditorConfig.editorconfig
+\\Mac\Home\Desktop\CIS560\560 Project\CIS560-ShipDatabaseProject\obj\Debug\net8.0-windows\ShipData.AssemblyInfoInputs.cache
+\\Mac\Home\Desktop\CIS560\560 Project\CIS560-ShipDatabaseProject\obj\Debug\net8.0-windows\ShipData.AssemblyInfo.cs
+\\Mac\Home\Desktop\CIS560\560 Project\CIS560-ShipDatabaseProject\obj\Debug\net8.0-windows\ShipData.csproj.CoreCompileInputs.cache
+\\Mac\Home\Desktop\CIS560\560 Project\CIS560-ShipDatabaseProject\obj\Debug\net8.0-windows\ShipData.sourcelink.json
+\\Mac\Home\Desktop\CIS560\560 Project\CIS560-ShipDatabaseProject\obj\Debug\net8.0-windows\ShipData.dll
+\\Mac\Home\Desktop\CIS560\560 Project\CIS560-ShipDatabaseProject\obj\Debug\net8.0-windows\refint\ShipData.dll
+\\Mac\Home\Desktop\CIS560\560 Project\CIS560-ShipDatabaseProject\obj\Debug\net8.0-windows\ShipData.pdb
+\\Mac\Home\Desktop\CIS560\560 Project\CIS560-ShipDatabaseProject\obj\Debug\net8.0-windows\ShipData.genruntimeconfig.cache
+\\Mac\Home\Desktop\CIS560\560 Project\CIS560-ShipDatabaseProject\obj\Debug\net8.0-windows\ref\ShipData.dll
