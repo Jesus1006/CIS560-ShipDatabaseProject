@@ -6,8 +6,8 @@
     <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
     <ProjectGuid>{B7520AD6-04DE-4AE6-A935-7E8F5662984E}</ProjectGuid>
     <OutputType>WinExe</OutputType>
-    <RootNamespace>testing</RootNamespace>
-    <AssemblyName>testing</AssemblyName>
+    <RootNamespace>ShipData</RootNamespace>
+    <AssemblyName>ShipData</AssemblyName>
     <TargetFrameworkVersion>v4.8</TargetFrameworkVersion>
     <FileAlignment>512</FileAlignment>
     <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
@@ -46,12 +46,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="ShipDataView.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
+    <Compile Include="ShipDataView.Designer.cs">
+      <DependentUpon>ShipDataView.cs</DependentUpon>
     </Compile>
+    <Compile Include="Models\CrewMember.cs" />
+    <Compile Include="Models\Mission.cs" />
+    <Compile Include="Models\MissionType.cs" />
+    <Compile Include="Models\Person.cs" />
+    <Compile Include="Models\Port.cs" />
+    <Compile Include="Models\RankType.cs" />
+    <Compile Include="Models\Ship.cs" />
+    <Compile Include="Models\ShipMission.cs" />
+    <Compile Include="Models\ShipType.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <EmbeddedResource Include="Properties\Resources.resx">
@@ -62,6 +71,7 @@
     <Compile Include="Properties\Resources.Designer.cs">
       <AutoGen>True</AutoGen>
       <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
     </Compile>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
@@ -75,6 +85,9 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="SQL\Tables\DropTables.sql" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>
